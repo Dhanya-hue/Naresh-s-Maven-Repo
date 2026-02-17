@@ -87,7 +87,7 @@ public class AddressbookUI extends UI {
     }
 
     /*
-     * Robust layouts.
+     * Robust layouts..
      *
      * Layouts are components that contain other components. HorizontalLayout
      * contains TextField and Button. It is wrapped with a Grid into
